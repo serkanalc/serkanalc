@@ -11,7 +11,6 @@
 - [Developer Multigroup](https://www.youtube.com/channel/UCo8vjYW1ZEzhREWZBRihRRg)'in kurucusu ve eğitmenlerinden biriyim...
 
 - [Twitter](https://www.youtube.com/channel/UCo8vjYW1ZEzhREWZBRihRRg) & [Linkedin](https://www.youtube.com/channel/UCo8vjYW1ZEzhREWZBRihRRg) Hesaplarımdan düzenli olarak Kotlin hakkında yenilikleri ve gelişmeleri paylaşıyorum ...
-
 -->
 
 ### Bu Profilde Sizi Neler Bekliyor?
