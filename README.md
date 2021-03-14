@@ -19,4 +19,4 @@
 - İşinize yarayabilecek Kotlin örnek uygulamaları olabildiğince paylaşıyor olacağım
 -->
 
-Umarım Bu Profilde Aradığınızı Bulmuşsunuzdur
+### Umarım Bu Profilde Aradığınızı Bulmuşsunuzdur 🚀
