@@ -13,7 +13,7 @@
 - [Twitter](https://twitter.com/Aserkanalc) & [Linkedin](https://www.linkedin.com/in/serkanalc/) Hesaplarımdan düzenli olarak Kotlin hakkında yenilikleri ve gelişmeleri paylaşıyorum ...
 
 - [Global AI Hub](https://globalaihub.com/)'da Ambassadorlık yapıyorum ...
--->
+
 
 ### Bu Profilde Sizi Neler Bekliyor?
 
@@ -22,6 +22,6 @@
 - Kotlin hakkında kaynak paylaşımı ve yenilikler hakkında linkleri toplu halde paylaşıyor olacağım
 
 - İşinize yarayabilecek Kotlin örnek uygulamaları olabildiğince paylaşıyor olacağım
--->
+
 
 ### Umarım Bu Profilde Aradığınızı Bulmuşsunuzdur 🚀
