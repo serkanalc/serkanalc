@@ -29,4 +29,4 @@
 ![Serkan Alc GitHub stats](https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&theme=tokyonight)
 
 
-[![Serkan Alc wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=serkanalc)]
+[![Serkan Alc wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=serkanalc)](https://github.com/serkanalc/github-readme-stats)
