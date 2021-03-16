@@ -6,13 +6,13 @@
 
 - [DSC Turkey & Central Asia](https://www.linkedin.com/company/google-developers-communities-turkey) & [Upschool](https://www.upschool.io/)'da Android eğitmenliği ve mentorluğu yapıyorum ...
 
-- [GDG Edirne](https://www.instagram.com/gdgedirne/) & [WTM Edirne](https://www.upschool.io/)  ekiplerinde organizatörlük yapıyorum   ...
+- [GDG Edirne](https://www.instagram.com/gdgedirne/) & [WTM Edirne](https://www.upschool.io/)  ekiplerinde organizatörlük yapıyorum   
 
-- [Developer Multigroup](https://www.youtube.com/channel/UCo8vjYW1ZEzhREWZBRihRRg)'in kurucusu ve eğitmenlerinden biriyim...
+- [Developer Multigroup](https://www.youtube.com/channel/UCo8vjYW1ZEzhREWZBRihRRg)'in kurucusu ve eğitmenlerinden biriyim
 
-- [Twitter](https://twitter.com/Aserkanalc) & [Linkedin](https://www.linkedin.com/in/serkanalc/) Hesaplarımdan düzenli olarak Kotlin hakkında yenilikleri ve gelişmeleri paylaşıyorum ...
+- [Twitter](https://twitter.com/Aserkanalc) & [Linkedin](https://www.linkedin.com/in/serkanalc/) Hesaplarımdan düzenli olarak Kotlin hakkında yenilikleri ve gelişmeleri paylaşıyorum 
 
-- [Global AI Hub](https://globalaihub.com/)'da Ambassadorlık yapıyorum ...
+- [Global AI Hub](https://globalaihub.com/)'da Ambassadorlık yapıyorum 
 
 
 ### Bu Profilde Sizi Neler Bekliyor?
