@@ -15,6 +15,9 @@
 - [Global AI Hub](https://globalaihub.com/)'da Ambassadorlık yapıyorum 
 
 
+![Serkan Alc GitHub stats](https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&theme=tokyonight)
+
+
 ### Bu Profilde Sizi Neler Bekliyor?
 
 - Kotlin hakkında kendinizi geliştirmeniz için sorular, uygulamalar egzersizleri ve çözümlerini sizlerle paylaşıyor oalcağım
@@ -26,7 +29,7 @@
 
 ### Umarım Bu Profilde Aradığınızı Bulmuşsunuzdur 🚀
 
-![Serkan Alc GitHub stats](https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&theme=tokyonight)
+
 
 
 
