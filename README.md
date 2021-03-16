@@ -1,5 +1,7 @@
 # Selam 👋
 
+![Serkan Alc GitHub stats](https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&theme=tokyonight)
+
 
 
 ### Hadi Gelin Tanışalım:
@@ -15,7 +17,6 @@
 - [Global AI Hub](https://globalaihub.com/)'da Ambassadorlık yapıyorum 
 
 
-![Serkan Alc GitHub stats](https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&theme=tokyonight)
 
 
 ### Bu Profilde Sizi Neler Bekliyor?
