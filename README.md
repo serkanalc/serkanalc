@@ -25,3 +25,5 @@
 
 
 ### Umarım Bu Profilde Aradığınızı Bulmuşsunuzdur 🚀
+
+![Serkan Alc GitHub stats](https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&theme=tokyonight)
