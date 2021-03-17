@@ -1,5 +1,7 @@
+<p align="center">
+  ![Serkan Alc GitHub stats](https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&theme=tokyonight)
+</p>
 
-![Serkan Alc GitHub stats](https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&theme=tokyonight)
 
 # Selam 👋
 
