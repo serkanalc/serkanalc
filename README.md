@@ -1,7 +1,5 @@
 
-<p align="center">  
-   <img src="https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&theme=tokyonight" />  
-   </p>  
+
 
 # Selam 👋
 
@@ -34,6 +32,10 @@
 
 
 ### Umarım Bu Profilde Aradığınızı Bulmuşsunuzdur 🚀
+
+<p align="center">  
+   <img src="https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&theme=tokyonight" />  
+   </p>  
 
 
 
