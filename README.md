@@ -31,7 +31,7 @@
 - İşinize yarayabilecek Kotlin örnek uygulamaları olabildiğince paylaşıyor olacağım
 
 
-### Umarım Bu Profilde Aradığınızı Bulmuşsunuzdur 🚀
+# Umarım Bu Profilde Aradığınızı Bulmuşsunuzdur 🚀
 
 <p align="center">  
    <img src="https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&theme=tokyonight" />  
