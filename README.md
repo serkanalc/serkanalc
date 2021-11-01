@@ -9,11 +9,13 @@
 
 ### Hadi Gelin Tanışalım:
 
-- [DSC Turkey & Central Asia](https://www.linkedin.com/company/google-developers-communities-turkey) & [Upschool](https://www.upschool.io/)'da Android eğitmenliği ve mentorluğu yapıyorum ...
+- [Google DSC Turkey & Central Asia](https://www.linkedin.com/company/google-developers-communities-turkey)'da Android eğitmenliği ve mentorluğu yapıyorum ...
+
+- [Upschool](https://www.upschool.io/)'da Proje Yöneticiliği yapıyorum. 
 
 - [GDG Edirne](https://www.instagram.com/gdgedirne/) & [WTM Edirne](https://www.upschool.io/)  ekiplerinde organizatörlük yapıyorum   
 
-- [Developer Multigroup](https://www.youtube.com/channel/UCo8vjYW1ZEzhREWZBRihRRg)'in kurucusu ve eğitmenlerinden biriyim
+- [Developer Multigroup](https://www.youtube.com/channel/UCo8vjYW1ZEzhREWZBRihRRg) & [Android Student Club](https://www.instagram.com/androidstudentclub/) kurucusu ve mentorlarından biriyim
 
 - [Twitter](https://twitter.com/Aserkanalc) & [Linkedin](https://www.linkedin.com/in/serkanalc/) Hesaplarımdan düzenli olarak Kotlin hakkında yenilikleri ve gelişmeleri paylaşıyorum 
 
