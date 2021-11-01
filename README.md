@@ -17,7 +17,7 @@
 
 - [Twitter](https://twitter.com/Aserkanalc) & [Linkedin](https://www.linkedin.com/in/serkanalc/) Hesaplarımdan düzenli olarak Kotlin hakkında yenilikleri ve gelişmeleri paylaşıyorum 
 
-- [Global AI Hub](https://globalaihub.com/)'da Ambassadorlık yapıyorum 
+
 
 
 
