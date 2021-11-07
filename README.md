@@ -38,6 +38,8 @@
 <h3 align="left">Socials</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/serkanalc/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" width="40" height="40"/>
 
+# 
+   
 <p align="center">  
    <img src="https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&theme=tokyonight" />  
    </p>  
