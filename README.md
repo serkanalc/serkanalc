@@ -33,9 +33,9 @@
 - İşinize yarayabilecek örnek uygulamaları olabildiğince paylaşıyor olacağım
 
 
-# 
 
-<p align="left">
+
+<p align="right">
  <a href="https://www.linkedin.com/in/serkanalc/">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
@@ -47,7 +47,7 @@
  </a> 
 </p>
 
-# 
+#
    
 <p align="center">  
    <img src="https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&theme=tokyonight" />  
