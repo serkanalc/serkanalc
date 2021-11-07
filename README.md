@@ -40,10 +40,10 @@
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://twitter.com/Aserkanalc">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="file:///C:/Users/serkan/Downloads/twitter-tile.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/aserkanalc/">
-  <img align="center" alt="Pramod's Medium" width="30px" src="file:///C:/Users/serkan/Downloads/instagram-tile.svg" />
+  <img align="center" alt="Pramod's Medium" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />
  </a> 
 </p>
 
