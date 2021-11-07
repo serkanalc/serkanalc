@@ -42,7 +42,7 @@
  <a href="https://twitter.com/salihgueler" target=”_blank”>
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://medium.com/@muhammedsalihguler" target=”_blank”>
+ <a href="https://medium.com/@muhammedsalihguler">
   <img align="center" alt="Pramod's Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a> 
 </p>
