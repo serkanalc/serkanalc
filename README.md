@@ -35,7 +35,6 @@
 
 # 
 
-<h3 align="left">Socials</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/serkanalc/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" width="40" height="40"/>
 
 # 
