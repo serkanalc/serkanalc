@@ -36,16 +36,17 @@
 # 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/msalihguler/" target=”_blank”>
+ <a href="https://www.linkedin.com/in/serkanalc/">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://twitter.com/salihgueler" target=”_blank”>
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ <a href="https://twitter.com/Aserkanalc">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="file:///C:/Users/serkan/Downloads/twitter-tile.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://medium.com/@muhammedsalihguler">
-  <img align="center" alt="Pramod's Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+ <a href="https://www.instagram.com/aserkanalc/">
+  <img align="center" alt="Pramod's Medium" width="30px" src="file:///C:/Users/serkan/Downloads/instagram-tile.svg" />
  </a> 
 </p>
+
 # 
    
 <p align="center">  
