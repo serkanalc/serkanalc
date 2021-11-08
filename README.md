@@ -37,10 +37,10 @@
 
 <p align="right">
  <a href="https://www.linkedin.com/in/serkanalc/">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
  </a>
  <a href="https://twitter.com/Aserkanalc">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
  </a>
  <a href="https://www.instagram.com/aserkanalc/">
   <img align="center" alt="Pramod's Medium" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />
