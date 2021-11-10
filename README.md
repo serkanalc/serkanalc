@@ -1,58 +1,53 @@
 
+<h2> Greetings Folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-
-# Selam 👋
-
-
-
-
-
-### Hadi Gelin Tanışalım:
-
-- [Google DSC Turkey & Central Asia](https://www.linkedin.com/company/google-developers-communities-turkey)'da Android eğitmenliği ve mentorluğu yapıyorum.
-
-- [Upschool](https://www.upschool.io/)'da Proje Yöneticiliği yapıyorum. 
-
-- [GDG Edirne](https://www.instagram.com/gdgedirne/) & [WTM Edirne](https://www.upschool.io/)  ekiplerinde organizatörlük yapıyorum.   
-
-- [Developer Multigroup](https://www.youtube.com/channel/UCo8vjYW1ZEzhREWZBRihRRg) & [Android Student Club](https://www.instagram.com/androidstudentclub/) kurucusu ve mentorlarından biriyim.
-
-- [Twitter](https://twitter.com/Aserkanalc) & [Linkedin](https://www.linkedin.com/in/serkanalc/) Hesaplarımdan düzenli olarak Kotlin hakkında yenilikleri ve gelişmeleri paylaşıyorum. 
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='300'/>
 
 
 
+<p>
+<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+<a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 
 
 
-### Bu Profilde Sizi Neler Bekliyor?
+</p> 
+<h3>I am Serkan Alc 💚</h3> 
 
-- Kotlin hakkında kendinizi geliştirmeniz için sorular, uygulamalar egzersizleri ve çözümlerini sizlerle paylaşıyor oalcağım
+I am a project manager at [UpSchool](https://www.upschool.io/) which is educating women in tech. I am responsible for organizing training for many technologies and following up on these training to reach their maximum potential. At the same time, I am an Android Mentor to the [Google Developer Student Club Turkey & Central Asia](https://gdsc.community.dev/)
+communities. If you need help in the field of Android or if you have trouble learning and advancing any technology, you can [contact me](https://calendly.com/serkanalc/30min?month=2021-11).🚀
 
-- Kotlin hakkında kaynak paylaşımı ve yenilikler hakkında linkleri toplu halde paylaşıyor olacağım
+## 💼 My Experiences
 
-- İşinize yarayabilecek örnek uygulamaları olabildiğince paylaşıyor olacağım
+- 💼 Project Manager [@Upschool](https://www.upschool.io/) (2020-Now)
+- 📢 Public Speaker & Content Creator [@Google Developers Communities](https://www.youtube.com/channel/UCwHGWX8X0TqGXMb-Q_GkmPg) (2019-Now)
+- 💚 Android Instructor @Wtech Android Bootcamp (2020-2021)
+- 💚 Android Mentor [@Google Developer Studednt Clubs](https://gdsc.community.dev/) (2020-2021)
+
+## 🎤 My Presentations & Speeches
+
+- 💚 [Android Kotlin StudyJam for New to Programming](https://www.youtube.com/watch?v=sJnEiMOlf3o)
+- 💚 [Build an interactive app with Kotlin](https://www.youtube.com/watch?v=RnvGPWR0Cug&t)
+- 💚 [Why We Learn Kotlin](https://www.youtube.com/watch?v=07OCiyYDFQ4&t=201s)
+- ✨ [Google Communities Adventure](https://www.youtube.com/watch?v=jtsXeeSPXcQ)
 
 
 
 
-<p align="right">
- <a href="https://www.linkedin.com/in/serkanalc/">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
- </a>
- <a href="https://twitter.com/Aserkanalc">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
- </a>
- <a href="https://www.instagram.com/aserkanalc/">
-  <img align="center" alt="Pramod's Medium" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />
- </a> 
+## 📊 My Github Stats
+
+<p align="center">
+<a href="https://github.com/salihgueler">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="serkanalc"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanalc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="serkanalc"/>
+</a>
 </p>
-
-#
-   
-<p align="center">  
-   <img src="https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&theme=tokyonight" />  
-   </p>  
-
 
 
 
