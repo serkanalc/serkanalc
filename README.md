@@ -43,8 +43,8 @@ communities. If you need help in the field of Android or if you have trouble lea
 
 <p align="center">
 <a href="https://github.com/salihgueler">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="serkanalc"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanalc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="serkanalc"/>
+  <img height="185em" align="center" src="https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="serkanalc"/>
+  <img height="185em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanalc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="serkanalc"/>
 </a>
 </p>
 
