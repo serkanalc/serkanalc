@@ -31,6 +31,7 @@ communities. If you need help in the field of Android or if you have trouble lea
 
 ## 🎤 My Presentations & Speeches
 
+- 💚 [Should I Learn Kotlin For Android & Other](https://docs.google.com/presentation/d/1K1HU4bF_3cUHKx7VZTfb2OZ9UhQ3rdDpeaSzbUhaTdU/edit?usp=sharing)
 - 💚 [Android Kotlin StudyJam for New to Programming](https://www.youtube.com/watch?v=sJnEiMOlf3o)
 - 💚 [Build an interactive app with Kotlin](https://www.youtube.com/watch?v=RnvGPWR0Cug&t)
 - 💚 [Why We Learn Kotlin](https://www.youtube.com/watch?v=07OCiyYDFQ4&t=201s)
