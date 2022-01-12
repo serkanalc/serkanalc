@@ -1,7 +1,7 @@
 
 <h2> Greetings Folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" src="https://camo.githubusercontent.com/995a8169a39c5baf3387ef22efac066d639d9d3e0bc907a1ce5ef5aed115d42b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37312f33332f63372f37313333633734366563613765336137623834616565313032376234623933352e676966" width='300' height='300'/>
+<img align="right" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width='300' height='300'/>
 
 
 
