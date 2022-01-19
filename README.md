@@ -27,7 +27,7 @@ communities. If you need help in the field of Android or if you have trouble lea
 - 💼 Project Manager [@Upschool](https://www.upschool.io/) (2020-Now)
 - 📢 Public Speaker & Content Creator [@Google Developers Communities](https://www.youtube.com/channel/UCwHGWX8X0TqGXMb-Q_GkmPg) (2019-Now)
 - 💚 Android Instructor @Wtech Android Bootcamp (2020-2021)
-- 💚 Android Mentor [@Google Developer Studednt Clubs](https://gdsc.community.dev/) (2020-2021)
+- 💚 Android Mentor [@Google Developer Student Clubs](https://gdsc.community.dev/) (2020-2021)
 
 ## 🎤 My Presentations & Speeches
 
