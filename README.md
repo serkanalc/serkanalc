@@ -20,7 +20,7 @@
 <h3>I am Serkan Alc 💚</h3> 
 
 I am a project manager at [UpSchool](https://www.upschool.io/) which is educating women in tech. I am responsible for organizing training for many technologies and following up on these training to reach their maximum potential. At the same time, I am an Android Mentor to the [Google Developer Student Club Turkey & Central Asia](https://gdsc.community.dev/)
-communities. If you need help in the field of Android or if you have trouble learning and advancing any technology, you can [contact me](https://calendly.com/serkanalc/30min?month=2021-11).🚀
+communities. If you need help in the field of Android or if you have trouble learning and advancing any technology, you can [contact me](https://superpeer.com/serkanalc/-/teecoffeeandmentoring).🚀
 
 ## 💼 My Experiences
 
