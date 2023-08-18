@@ -40,7 +40,9 @@ communities. If you need help in the field of Android or if you have trouble lea
 - 💚 [Build an interactive app with Kotlin](https://www.youtube.com/watch?v=RnvGPWR0Cug&t)
 - 💚 [Why We Learn Kotlin](https://www.youtube.com/watch?v=07OCiyYDFQ4&t=201s)
 
+## 📝 My Medium Blogs
 
+![Alt text here](https://nodejs-medium-fetcher.vercel.app/?username=aserkanalc&limit=3&responseType=svg)
 
 
 ## 📊 My Github Stats
