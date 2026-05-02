@@ -18,7 +18,7 @@
 
 Working as a DevRel Manager - PgM at Lodos.io. Most of what I know today was shaped through communities, and now I strive to create even more value together with the community through [MultiGroup Community](https://github.com/multigroupco), where I am a co-founder.
 
-🌴 [If you want you can fallow](https://linktr.ee/serkanalc)
+🌴 [If you want you can fallow](https://linktr.ee/serkanalc) <br>
 🍕 [Check this awesome community](https://togather.lodos.io/communities/multigroup-community-34813861558366504236)
 
 ## Key Outcomes from MultiGroup
