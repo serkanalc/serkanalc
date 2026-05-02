@@ -1,10 +1,6 @@
 
 <h2> Greetings Folks!</h2>
 
-<img align="right" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width='272'/>
-
-
-
 <p>
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
@@ -17,43 +13,12 @@
 
 
 </p> 
-<h3>I am Serkan Alc 💚</h3> 
+### I'm Serkan Alc ☀️
 
-I am a project manager at [UpSchool](https://www.upschool.io/) which is educating women in tech. I am responsible for organizing training for many technologies and following up on these training to reach their maximum potential. At the same time, I am an Android Mentor to the [Google Developer Student Club Turkey & Central Asia](https://gdsc.community.dev/)
-communities. If you need help in the field of Android or if you have trouble learning and advancing any technology, you can [contact me](https://superpeer.com/serkanalc/-/teecoffeeandmentoring).🚀
+Working as a DevRel Manager - PgM at Lodos.io. Most of what I know today was shaped through communities, and now I strive to create even more value together with the community through [MultiGroup Community](https://github.com/multigroupco), where I am a co-founder.
 
 🌴 [If you want you can fallow](https://linktr.ee/serkanalc)
 
-## 💼 My Experiences
+## Key Outcomes from MultiGroup
 
-- 💼 Operation Manager [@Game Factory](https://gamefactory.gs/tr/home-2/) (2023-Now)
-- 💼 Project Manager [@Upschool](https://www.upschool.io/) (2020-Now)
-- 📢 Public Speaker & Content Creator [@Google Developers Communities](https://www.youtube.com/channel/UCwHGWX8X0TqGXMb-Q_GkmPg) (2019-Now)
-- 💚 Android Instructor @Wtech Android Bootcamp (2020-2021)
-- 💚 Android Mentor [@Google Developer Student Clubs](https://gdsc.community.dev/) (2020-2021)
-
-## 🎤 My Presentations & Speeches
-
-- 💚 [What's New in Jetpack Compose](https://docs.google.com/presentation/d/1ZOrN4TQkwAeuDGWOmiCweHA25LMfIiqknbgldtZjP0g/edit?usp=sharing)
-- 💚 [Should I Learn Kotlin For Android & Other](https://docs.google.com/presentation/d/1K1HU4bF_3cUHKx7VZTfb2OZ9UhQ3rdDpeaSzbUhaTdU/edit?usp=sharing)
-- 💚 [Android Kotlin StudyJam for New to Programming](https://www.youtube.com/watch?v=sJnEiMOlf3o)
-- 💚 [Build an interactive app with Kotlin](https://www.youtube.com/watch?v=RnvGPWR0Cug&t)
-- 💚 [Why We Learn Kotlin](https://www.youtube.com/watch?v=07OCiyYDFQ4&t=201s)
-
-## 📝 My Medium Blogs
-
-![Alt text here](https://nodejs-medium-fetcher.vercel.app/?username=aserkanalc&limit=3&responseType=svg)
-
-
-## 📊 My Github Stats
-
-<p align="center">
-<a href="https://github.com/serkanalc">
-  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="serkanalc"/>
-  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanalc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="serkanalc"/>
-</a>
-</p>
-
-
-
-
+Over the past 6 years, we’ve built an incredible team, organized nearly 100 events, and grown a strong community of over **18,000 unique people**. What makes this journey especially meaningful is the quality of the community we’ve created, consisting of experienced software engineers, HR professionals, and engineering leaders actively working in the industry. Along the way, we’ve collaborated with leading companies such as [Google](https://github.com/google), [Akbank](https://www.akbank.com), and [Trendyol](https://github.com/Trendyol), among others, delivering impactful outcomes through different types of initiatives, and we continue this journey by building and creating value together.
