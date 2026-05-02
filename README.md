@@ -1,5 +1,5 @@
 
-<h2> Greetings Folks!</h2>
+## Greetings Folks! 
 
 <p>
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
@@ -12,8 +12,9 @@
 
 
 
-</p> 
-### I'm Serkan Alc ☀️
+</p>
+
+## I'm Serkan Alc ☀️
 
 Working as a DevRel Manager - PgM at Lodos.io. Most of what I know today was shaped through communities, and now I strive to create even more value together with the community through [MultiGroup Community](https://github.com/multigroupco), where I am a co-founder.
 
