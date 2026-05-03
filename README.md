@@ -29,3 +29,5 @@ Over the past 6 years, we’ve built an incredible team, organized nearly 100 ev
 ## Lodos.io Impact Maps
 
 At the Social Innovation Engineering department at Lodos.io, we focus on creating a smoother and more engaging experience for users as they discover the Lodos ecosystem and become part of its growing community. We build products that help people connect, grow, and share their journeys more effectively — including [ToGather](https://togather.lodos.io/) for discovering nearby events, [Social Hive](https://socialhive.lodos.io/discover) for seamless voice and text communication, and [Achive](https://achieve.lodos.io/) for documenting and showcasing personal achievements. Reaching more than **10,000 people** in a short period of time while building products that create real community impact has been one of the most rewarding parts of this journey.
+
+## Practical Learning Institute Coming Soon!
