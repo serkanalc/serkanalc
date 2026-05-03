@@ -23,7 +23,7 @@ Working as a DevRel Manager - PgM at Lodos.io. Most of what I know today was sha
 
 ## Key Outcomes from MultiGroup
 
-Over the past 6 years, we’ve built an incredible team, organized nearly 100 events, and grown a strong community of over **18,000 unique people**. What makes this journey especially meaningful is the quality of the community we’ve created, consisting of experienced software engineers, HR professionals, and engineering leaders actively working in the industry. Along the way, we’ve collaborated with leading companies such as [Google](https://github.com/google), [Akbank](https://www.akbank.com), and [Trendyol](https://github.com/Trendyol), among others, delivering impactful outcomes through different types of initiatives, and we continue this journey by building and creating value together.
+Over the past 6 years, we’ve built an incredible team, organized nearly 100 events, and grown a strong community of over **18,000 unique people**. What makes this journey especially meaningful is the quality of the community we’ve created, consisting of experienced software engineers, HR professionals, and engineering leaders actively working in the industry. Along the way, we’ve collaborated with leading companies such as ` Google ` , ` Akbank ` , and `Trendyol`, among others, delivering impactful outcomes through different types of initiatives, and we continue this journey by building and creating value together.
 
 
 ## Lodos.io Impact Maps
